@@ -1,0 +1,20 @@
+{
+  "title": "MOINS EST PLUS",
+  "subtitle": "\u001b[23mSélectionnez un exercice et appuyez \u001b[3mEntrée\u001b[23m pour commencer",
+  "menu": {
+    "credits": "HONNEUR"
+  },
+  "exercise": {
+    "variables": "LES VARIABLES",
+    "mixins": "MIXINS",
+    "nested rules": "RÈGLES IMBRIQUÉES",
+    "nested directives and bubbling": "DIRECTIVES IMBRIQUÉES ET BULLAGE",
+    "operations": "OPÉRATIONS",
+    "escaping": "ÉCHAPPER",
+    "functions": "LES FONCTIONS",
+    "namespaces and accessors": "NAMESPACES ET ACCESSEURS",
+    "scope": "PORTÉE",
+    "comments": "COMMENTAIRES",
+    "importing": "IMPORTATION"
+  }
+}

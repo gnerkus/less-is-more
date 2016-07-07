@@ -1,0 +1,20 @@
+{
+  "title": "LESS IS MORE",
+  "subtitle": "\u001b[23mSelect an exercise and hit \u001b[3mEnter\u001b[23m to begin",
+  "menu": {
+    "credits": "CREDITS"
+  },
+  "exercise": {
+    "variables": "VARIABLES",
+    "mixins": "MIXINS",
+    "nested rules": "NESTED RULES",
+    "nested directives and bubbling": "NESTED DIRECTIVES AND BUBBLING",
+    "operations": "OPERATIONS",
+    "escaping": "ESCAPING",
+    "functions": "FUNCTIONS",
+    "namespaces and accessors": "NAMESPACES AND ACCESSORS",
+    "scope": "SCOPE",
+    "comments": "COMMENTS",
+    "importing": "IMPORTING"
+  }
+}
