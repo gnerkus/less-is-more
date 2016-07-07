@@ -1,0 +1,46 @@
+{
+  "name": "less-is-more",
+  "version": "1.0.0",
+  "description": "Learn the basics of the LESS CSS preprocessor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "workshopper-adventure-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gnerkus/less-is-more"
+  },
+  "keywords": [
+    "less",
+    "css",
+    "scss",
+    "workshopper",
+    "adventure",
+    "node",
+    "nodejs",
+    "nodeschool",
+    "node-school"
+  ],
+  "bin": {
+    "less-is-more": "./bin/less-is-more.js"
+  },
+  "author": "gnerkus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnerkus/less-is-more/issues"
+  },
+  "homepage": "https://github.com/gnerkus/less-is-more#readme",
+  "dependencies": {
+    "after": "0.8.1",
+    "cli-md": "1.2.0",
+    "colors": "1.1.2",
+    "diff": "2.2.3",
+    "less": "2.7.1",
+    "workshopper-adventure": "4.6.2",
+    "workshopper-exercise": "2.7.0",
+    "xtend": "4.0.1"
+  },
+  "devDependencies": {
+    "workshopper-adventure-test": "^1.0.0"
+  }
+}
