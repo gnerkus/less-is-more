@@ -1,11 +1,11 @@
-const workshopper = require('workshopper-adventure')
-    , path        = require('path')
-    , lessismore   = workshopper({
-    title       : 'LESS is more'
-  , exerciseDir : path.join(__dirname, 'exercises')
-  , appDir      : __dirname
-  , languages   : ['en', 'fr']
-})
+var workshopper = require('workshopper-adventure');
+var path = require('path');
+var lessismore = workshopper({
+  title: 'LESS is more',
+  exerciseDir: path.join(__dirname, 'exercises'),
+  appDir: __dirname,
+  languages: ['en', 'fr']
+});
 
 lessismore.addAll([
   "variables",
