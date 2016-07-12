@@ -1,9 +1,9 @@
 // Based on workshopper-exercise/execute
-const spawn = require('child_process').spawn
-    , path  = require('path')
-    , fs    = require('fs')
-    , after = require('after')
-    , xtend = require('xtend')
+var spawn = require('child_process').spawn
+var path = require('path');
+var fs = require('fs');
+var after = require('after');
+var xtend = require('xtend');
 
 function execute (exercise, opts) {
   if (!opts) opts = {}
@@ -117,4 +117,4 @@ function execute (exercise, opts) {
 
 }
 
-module.exports = execute
+module.exports = execute;
