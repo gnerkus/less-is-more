@@ -7,12 +7,12 @@
   "exercise": {
     "variables": "VARIABLES",
     "mixins": "MIXINS",
-    "nested rules": "NESTED RULES",
-    "nested directives and bubbling": "NESTED DIRECTIVES AND BUBBLING",
+    "nested_rules": "NESTED RULES",
+    "nested_directives_and_bubbling": "NESTED DIRECTIVES AND BUBBLING",
     "operations": "OPERATIONS",
     "escaping": "ESCAPING",
     "functions": "FUNCTIONS",
-    "namespaces and accessors": "NAMESPACES AND ACCESSORS",
+    "namespaces_and_accessors": "NAMESPACES AND ACCESSORS",
     "scope": "SCOPE",
     "comments": "COMMENTS",
     "importing": "IMPORTING"
