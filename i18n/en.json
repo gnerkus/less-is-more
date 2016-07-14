@@ -14,7 +14,6 @@
     "functions": "FUNCTIONS",
     "namespaces_and_accessors": "NAMESPACES AND ACCESSORS",
     "scope": "SCOPE",
-    "comments": "COMMENTS",
     "importing": "IMPORTING"
   }
 }

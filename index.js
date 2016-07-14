@@ -17,7 +17,6 @@ lessismore.addAll([
   "functions",
   "namespaces_and_accessors",
   "scope",
-  "comments",
   "importing",
 ])
 
